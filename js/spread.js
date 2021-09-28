@@ -85,11 +85,11 @@ log(...num);
 
 const array = ["a", "b"];
 
-const newArray = [...array];
+// const newArray = [...array];
 
-const q = {
-  one: 1,
-  two: 2
-};
+// const q = {
+//   one: 1,
+//   two: 2
+// };
 
-const newObj = {...q};
+// const newObj = {...q};
